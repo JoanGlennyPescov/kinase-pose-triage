@@ -1,0 +1,32 @@
+kinase,group,pdb,chain,resolution_A,ligand,dfg,ac_helix,klifs_quality,ligand_type,note
+AKT1,AGC,4GV1,A,1.49,0XZ,in,in,8,inhibitor,
+PDK1,AGC,4RRV,A,1.41,ATP,in,in,8,nucleotide,kept as nucleotide control
+CAMK2A,CAMK,7KL0,A,2.40,UZD,in,in,8,inhibitor,swapped from 7KL1/ATP
+CHK1,CAMK,3PA3,A,1.40,C70,in,in,8,inhibitor,
+DAPK1,CAMK,2W4J,A,1.30,ADP,in,in,8,nucleotide,kept as nucleotide control
+MELK,CAMK,5IH9,A,1.79,6BF,in,in,8,inhibitor,
+CK1d,CK1,9SIX,A,1.23,A1JOB,in,in,8,inhibitor,
+CDK2,CMGC,6Q4G,A,0.98,HJK,in,out,8,inhibitor,
+CDK6,CMGC,6OQO,A,1.98,N1J,in,out,8,inhibitor,
+CLK1,CMGC,6FT8,A,1.45,E6T,in,in,8,inhibitor,
+DYRK1A,CMGC,6S14,A,1.05,KQW,in,in,8,inhibitor,
+ERK2,CMGC,4QTA,A,1.45,38Z,in,in,8,inhibitor,
+GSK3B,CMGC,1Q5K,A,1.94,TMU,in,in,8,inhibitor,swapped from 1J1B/ANP
+p38a,CMGC,3ZYA,A,1.90,2A8,in,in,8,inhibitor,
+AURKA,Other,4J8M,A,1.85,CJ5,in,in,8,inhibitor,
+CK2a1,Other,4KWP,A,1.25,EXX,in,in,8,inhibitor,swapped from 3WAR/NIO
+MAP2K1,STE,3EQC,A,1.80,3BM,in,out,8,inhibitor,swapped from 7B7R/ANP
+PAK4,STE,5VEF,A,1.75,M77,in,in,8,inhibitor,
+ABL1,TK,2F4J,A,1.91,VX6,in,in,8,inhibitor,
+ALK,TK,4Z55,A,1.55,4LO,in,in,8,inhibitor,
+BTK,TK,6HRP,A,1.12,GMQ,in,out,8,inhibitor,
+EGFR,TK,8A27,A,1.07,KY9,in,out,8,inhibitor,
+FGFR1,TK,5EW8,A,1.63,5SF,in,in,8,inhibitor,
+INSR,TK,5HHW,A,1.79,60O,in,in,8,inhibitor,
+JAK2,TK,7REE,A,1.38,4LY,in,in,8,inhibitor,
+KDR,TK,3WZD,A,1.57,LEV,in,in,6.4,inhibitor,relaxed filter; 4 missing residues 0 missing atoms
+KIT,TK,8PQD,A,1.50,9VV,in,in,8,inhibitor,
+LCK,TK,3MPM,A,1.95,5LK,in,in,8,inhibitor,swapped from 1QPC/ANP
+MET,TK,4R1V,A,1.20,3E8,in,out,8,inhibitor,
+BRAF,TKL,9BFB,A,1.92,A1AN9,in,out,8,inhibitor,
+IRAK4,TKL,6EGE,D,1.40,DL1,in,in,8,inhibitor,
